@@ -1,0 +1,1 @@
+language is a purely functional programming Haskell. programming it is a good language for learning functional And!

@@ -1,0 +1,1 @@
+Haskell is a purely functional programming               language. And it is a good language       for           learning functional    programming!
